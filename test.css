@@ -124,3 +124,7 @@ a:active {
 .space {
   height: 45vh;
 }
+
+html {
+    overflow: hidden;
+}
