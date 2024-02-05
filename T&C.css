@@ -1,0 +1,28 @@
+h4 {
+    margin-bottom: -15px;
+    margin-top: -10px;
+}
+
+.refund p {
+    display: inline-block;
+}
+
+.left {
+text-align: left;
+width: 49%;
+}
+
+.right {
+text-align: right;
+width: 49%;
+
+}
+
+.rp {
+    width: 100%;  
+    max-width: 500px;
+}
+
+article {
+    margin-top: -25px;
+}
